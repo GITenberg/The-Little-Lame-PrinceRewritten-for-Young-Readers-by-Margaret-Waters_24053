@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '26205'
     url: http://www.gutenberg.org/2009/agents/26205
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24053#The-Little-Lame-PrinceRewritten-for-Young-Readers-by-Margaret-Waters
 gutenberg_bookshelf:
 - Children's Instructional Books
 - Children's Literature
